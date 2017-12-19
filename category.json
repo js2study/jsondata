@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "name": "recommended"
+  },
+  {
+    "id": "2",
+    "name": "trending"
+  },
+  {
+    "id": "3",
+    "name": "music"
+  },
+  {
+    "id": "4",
+    "name": "comedy"
+  },
+  {
+    "id": "5",
+    "name": "entertainment"
+  },
+  {
+    "id": "6",
+    "name": "news"
+  },
+  {
+    "id": "7",
+    "name": "sports"
+  },
+  {
+    "id": "8",
+    "name": "technology"
+  },
+  {
+    "id": "9",
+    "name": "gaming"
+  },
+  {
+    "id": "10",
+    "name": "food"
+  },
+  {
+    "id": "11",
+    "name": "beauty"
+  }
+]
